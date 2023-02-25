@@ -1,0 +1,14 @@
+torch
+transformers==3.0.0
+ftfy
+tqdm
+sklearn
+numpy
+pandas
+spacy
+torchtext
+configargparse
+nltk
+pyenchant
+emoji
+compound-word-splitter
